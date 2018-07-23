@@ -19,5 +19,5 @@ Debug.AddCard(62279055,1,1,LOCATION_SZONE,2,POS_FACEDOWN) --魔法筒
 
 Debug.ReloadFieldEnd()
 Debug.ShowHint("体验连接召唤吧！")
-Debug.ShowHint("注意：请在系统设置中关闭自动选择卡片位置！")
+Debug.ShowHint("注意：请在辅助功能中关闭自动选择卡片位置！")
 aux.BeginPuzzle()
