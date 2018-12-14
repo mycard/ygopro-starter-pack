@@ -1,5 +1,5 @@
---Link summon test
-Debug.SetAIName("尼亚")
+--[[message 体验连接召唤吧！]]
+Debug.SetAIName("高性能电子头脑")
 Debug.ReloadFieldBegin(DUEL_ATTACK_FIRST_TURN+DUEL_SIMPLE_AI,4) -- 4 = new master rule
 Debug.SetPlayerInfo(0,100,0,0)
 Debug.SetPlayerInfo(1,3000,0,0)
