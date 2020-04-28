@@ -1,6 +1,6 @@
---sample puzzle from TFSP
+--[[message 灵摆召唤入门2]]
 Debug.SetAIName("高性能电子头脑")
-Debug.ReloadFieldBegin(DUEL_ATTACK_FIRST_TURN+DUEL_SIMPLE_AI)
+Debug.ReloadFieldBegin(DUEL_ATTACK_FIRST_TURN+DUEL_SIMPLE_AI,5)
 Debug.SetPlayerInfo(0,8000,0,0)
 Debug.SetPlayerInfo(1,4400,0,0)
 
